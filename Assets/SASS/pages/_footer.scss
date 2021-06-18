@@ -1,0 +1,13 @@
+footer {height: $footersize;
+    width: 100%;
+    background-color: $colorsalmon;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    color: $colornegro;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;}
+
+    .redes {display: flex;}
